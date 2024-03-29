@@ -1,0 +1,4 @@
+1. SQL Tables are used and they are easier to read.
+2. IDOR Attack Vulnerability is when the page is changed using data that is provided from the user.
+3. The issue can be avoided by only accepting files with the correct extension.
+4. The data is encoded meaning it is safer and cannot be accessed by third party.
